@@ -1,15 +1,15 @@
-API_ID=28852255
-API_HASH=c05dab25e12612ad105971ab06bd184f
-BOT_TOKEN=6676519104:AAHT74Fzm2xilwvMvC6UBIU2UmaooxqQVjY
-STRING_SESSION=BQA_jzXCHPOSuMtq0hToGTG2uWPHi8kCKWGilhwk5-cY-ArMYPPA-lvh_MDEb8KFFrEiZstdFc7smR0GN40dlynwlEFMQHTdhwoC6QRiN3PNPRnpve7vbBLcpEDEDKOtIr7PSbd7TSLOp-5hG_qwdcv46kuIY_CYl9E8xHo38Q5mVUQ2AehX06LZuFHmv5jtKDjnnwSlOLD9mbfV_eb3y9OID2lKLgFAI8F-8GkUu2vW6ooW_BXcny5L5JLjOQkcwyE9kdKY1oreshOZfHOmBnnC1vr8Y2GDxPs5ve-au-q01T5TRzRSnMstu11PLXhrBVRyxS7O5n1Z1KPhOlxRV5tUAAAAAW6hLisA
+API_ID=
+API_HASH
+BOT_TOKEN=
+STRING_SESSION=
 MUSIC_BOT_NAME=🧨 𓆩—͟͞͞𝐅υη 𝐏αη∂яσɱ—͟͞✘𝐌υѕι¢𓆪🧨
-MONGO_DB_URL=mongodb+srv://Bikash:Bikash@bikash.yl2nhcy.mongodb.net/?retryWrites=true&w=majority
+MONGO_DB_URL=
 DURATION_LIMIT=120
 LOG_GROUP_ID=-1001821034689
 OWNER_ID=6372060273
 SUPPORT_CHANNEL=https://t.me/Funpandrom_memes
 SUPPORT_GROUP=https://t.me/funpandromea
-UPSTREAM_REPO=https://github.com/XdityaHalder/SankiMusic
+UPSTREAM_REPO=https://github.com/XdityaHalder/Sa
 UPSTREAM_BRANCH=aditya
 AUTO_DOWNLOADS_CLEAR=True
 
